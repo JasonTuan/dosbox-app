@@ -1,11 +1,12 @@
-# dosbox-app
+# DOSBOX Apps
 Run the old app with DOSBOX
 
 # Greeting start
+- Copy your app to the Apps folder
 - Open file App.conf
-- Change the setting for your app at the end of file. 
+- Change the setting for your app at the end of the file. 
 - Save
-- Click to RUN.bat to start
+- Click on RUN.bat to start
 
 # Helpful
 Mount Folders
